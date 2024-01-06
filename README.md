@@ -3,6 +3,10 @@
 # Project Title: NutriCal : McDonald's Menu Nutritional Analysis
 ## By : Rajiv Bhatia
 
+### Acknowledgement
+
+I would like to express my special thanks of gratitude to my Data Analyst teacher "Mr Abhishek Saraswat" for their able guidance and suppert in completing my project. I would also like to extend my gratitude to all staff, my project buddy for providing me the support.
+
 ### Project Description
 
 McDonald's is a global fast-food chain known for its diverse menu offerings. As a data analyst, i am trying to analyze the nutritional content of the menu items available at McDonald's outlets. This analysis will provide valuable insights into the calorie count and nutrition facts of various menu items.
@@ -36,3 +40,8 @@ McDonald's is a global fast-food chain known for its diverse menu offerings. As 
    2. Numerical Variable Analyasis
 8. Conclusion
 
+### Technologies Used
+
+To Analyze the whole item i am using Python version 3.11.5 , Anaconda3 Jupyter notebook 
+#### Database Used
+The database file that i am using in this project is C:\Users\sbhat\nutrical_data_analysis\data\NutricalDataset.csv .
