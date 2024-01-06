@@ -1,20 +1,16 @@
-#Data Analyst Bootcamp(Capstone Project)
-##By : Rajiv Bhatia
+# Data Analyst Bootcamp(Capstone Project)
 
-Project Title: NutriCal : McDonald's Menu Nutritional Analysis
+# Project Title: NutriCal : McDonald's Menu Nutritional Analysis
+## By : Rajiv Bhatia
 
-#Contents of the Projects
+### Contents of the Projects
 
-Introduction
-
-Problem Statement
-
-Import necessory libraries
-
-Analysing and Understanding Data
-
-Analysing Rows and Cols
-Analysing type of dataframe
+1. Introduction
+2. Problem Statement
+3. Import necessory libraries
+4. Analysing and Understanding Data
+.1. Analysing Rows and Cols
+6. Analysing type of dataframe
 Printing all columns of dataframe
 Information about data columns and its type
 Printing of top rows
