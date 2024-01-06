@@ -43,5 +43,11 @@ McDonald's is a global fast-food chain known for its diverse menu offerings. As 
 ### Technologies Used
 
 To Analyze the whole item i am using Python version 3.11.5 , Anaconda3 Jupyter notebook 
-#### Database Used
+### Database Used
 The database file that i am using in this project is C:\Users\sbhat\nutrical_data_analysis\data\NutricalDataset.csv .
+
+### Detail Discription
+The Jupyter file that contains all the detail about project is C:\Users\sbhat\nutrical_data_analysis\Mcdonald.ipynb
+
+
+
